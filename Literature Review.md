@@ -11,3 +11,4 @@
 # [A machine learning classifier approach for identifying the determinants of under-five child undernutrition in Ethiopian administrative zones](https://bmcmedinformdecismak.biomedcentral.com/articles/10.1186/s12911-021-01652-1?utm_source=chatgpt.com)
 # [Development of a diagnostic predictive model for determining child stunting in Malawi: a comparative analysis of variable selection approaches](https://bmcmedresmethodol.biomedcentral.com/articles/10.1186/s12874-024-02283-6?utm_source=chatgpt.com)
 # [Machine Learning Approach for Predicting the Impact of Food Insecurity on Nutrient Consumption and Malnutrition in Children Aged 6 Months to 5 Years](https://www.mdpi.com/2227-9067/11/7/810?utm_source=chatgpt.com)
+# [Predictive Analytics of a Community Survey Data by Artificial Neural Network - A Subset of Machine Learning](https://indjst.org/articles/predictive-analytics-of-a-community-survey-data-by-artificial-neural-network-a-subset-of-machine-learning)
