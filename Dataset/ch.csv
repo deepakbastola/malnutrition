@@ -1,4 +1,4 @@
-child_age,child_weight,diarrhoea_last_2_weeks,fever_last_2_weeks,area,child_sex,mother_education,health_insurance,wealth_index,status,province_Gandaki Province,province_Karnali Province,province_Province 1,province_Province 2,province_Province 5,province_Sudoorpaschim Province
+child age,child weight,diarrhoea,fever,area,child sex,mother education,health insurance,wealth index,status,gandaki,karnali,koshi,madhesh,lumbini,sudurpashchim
 1.0,-1.0660813977003945,0,0,0,1,2.0,1,1.0,1,0,0,1,0,0,0
 3.0,0.43442763356937536,0,1,0,1,2.0,1,1.0,1,0,0,1,0,0,0
 2.0,-0.012532503404598716,1,0,0,0,1.0,1,1.0,0,0,0,1,0,0,0
