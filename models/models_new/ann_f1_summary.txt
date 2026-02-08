@@ -1,0 +1,27 @@
+
+NEURAL NETWORK F1-OPTIMIZED - SUMMARY
+============================================================
+
+Best Hyperparameters:
+  Layer 1: 224 units, dropout 0.4
+  Layer 2: Yes
+  Layer 3: No
+  Batch Norm: Yes
+  Learning Rate: 0.0001
+
+Performance:
+  Default Threshold (0.5):
+    - F1-Score: 0.4241
+    - Accuracy: 0.5981
+    - Precision: 0.5476
+    - Recall: 0.3461
+
+  Optimal Threshold (0.300):
+    - F1-Score: 0.6173
+    - Improvement: +45.55%
+
+Files Generated:
+  1. best_ann_f1_optimized.keras - Trained model
+  2. best_hyperparameters_f1.json - Best hyperparameters
+  3. ann_predictions_f1.csv - Test predictions
+  4. ann_f1_summary.txt - This summary

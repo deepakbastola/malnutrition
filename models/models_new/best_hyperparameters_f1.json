@@ -1,0 +1,13 @@
+{
+  "units_1": 224,
+  "dropout_1": 0.4,
+  "use_second_layer": true,
+  "units_2": 112,
+  "dropout_2": 0.4,
+  "use_third_layer": false,
+  "units_3": null,
+  "use_batch_norm": true,
+  "learning_rate": 0.0001,
+  "optimal_threshold": 0.3,
+  "test_f1_score": 0.6172688303735456
+}
