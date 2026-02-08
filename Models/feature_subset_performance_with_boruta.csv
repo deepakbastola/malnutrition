@@ -1,0 +1,9 @@
+Strategy,K,Features,CV_F1_Mean,CV_F1_Std
+Top 10,10,"mother education, wealth index, child age...",0.6158110532442833,0.07277398843375607
+Top 15,15,"mother education, wealth index, child age...",0.6102566719329214,0.07430433135754416
+Boruta Conf+Tent,17,"mother education, wealth index, child age...",0.6098986668957684,0.08293791298780655
+Boruta Confirmed,16,"mother education, wealth index, child age...",0.609695448699034,0.07494042510078458
+Top 30,30,"mother education, wealth index, child age...",0.6080589008030188,0.07119208263132701
+Top 25,25,"mother education, wealth index, child age...",0.6078322410742699,0.07394273295254084
+Top 20,20,"mother education, wealth index, child age...",0.6072532539525601,0.08585904352387791
+Top 5,5,"mother education, wealth index, child age...",0.5994126487949174,0.0677593839367978
