@@ -1,9 +1,9 @@
 Strategy,K,Features,CV_F1_Mean,CV_F1_Std
-Top 10,10,"mother education, wealth index, Gandaki...",0.6177440995397683,0.07110246426419009
-Boruta Confirmed,16,"mother education, wealth index, Gandaki...",0.6099994328923072,0.07486592811567185
-Boruta Conf+Tent,17,"mother education, wealth index, Gandaki...",0.6096405675330974,0.08097014778349035
-Top 15,15,"mother education, wealth index, Gandaki...",0.609589037926684,0.07367214252070443
-Top 30,30,"mother education, wealth index, Gandaki...",0.6082396592892063,0.07245402108741762
-Top 25,25,"mother education, wealth index, Gandaki...",0.6073028896704494,0.07881342986584883
-Top 20,20,"mother education, wealth index, Gandaki...",0.6039572919813768,0.08294603272792782
-Top 5,5,"mother education, wealth index, Gandaki...",0.6005250863047105,0.060245320551766145
+Top 10,10,"mother education, wealth index, Gandaki...",0.6192472103095993,0.06388411008646909
+Top 15,15,"mother education, wealth index, Gandaki...",0.6129261384825395,0.07061936359410122
+Top 25,25,"mother education, wealth index, Gandaki...",0.6069614286800687,0.06357435532216461
+Top 20,20,"mother education, wealth index, Gandaki...",0.6065607343624952,0.08172873016508457
+Boruta Conf+Tent,18,"mother education, wealth index, Gandaki...",0.6061900655761501,0.0774301090421959
+Boruta Confirmed,18,"mother education, wealth index, Gandaki...",0.6061900655761501,0.0774301090421959
+Top 30,30,"mother education, wealth index, Gandaki...",0.6041551718234558,0.066731606154181
+Top 5,5,"mother education, wealth index, Gandaki...",0.5966962973282784,0.05296073120628911
